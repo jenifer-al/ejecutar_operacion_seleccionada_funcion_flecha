@@ -1,0 +1,2 @@
+# ejecutar_operacion_seleccionada_funcion_flecha
+ejercicio operación seleccionada función flecha
